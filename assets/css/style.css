@@ -1158,3 +1158,7 @@ footer .copy a:hover {
     -webkit-mask-image: url(../img/frost-2.svg);
     mask-image: url(../img/frost-2.svg);
 } */
+
+.scroll-field {
+    overflow-y: auto;
+}
