@@ -1159,6 +1159,10 @@ footer .copy a:hover {
     mask-image: url(../img/frost-2.svg);
 } */
 
-.scroll-field {
+.scrollable {
     overflow-y: auto;
+}
+
+.equal-height {
+    height: 410 px;
 }
