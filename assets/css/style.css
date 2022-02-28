@@ -1160,9 +1160,10 @@ footer .copy a:hover {
 } */
 
 .scrollable {
+    height: 300px;
     overflow-y: auto;
 }
 
-.equal-height {
+/* .equal-height {
     height: 410 px;
-}
+} */
